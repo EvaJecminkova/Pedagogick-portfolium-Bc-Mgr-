@@ -1,5 +1,1 @@
-Pedagogické portfolio <br>
-Bakalářské studium <br>
-Bc. Eva Ječmínková (D25932) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
+Didaktická část portfolia bude obsahovat relevantní metodických a didaktických souborů, jako jsou výukové materiály, prezentace, plány hodin, výukové aplikace, odkazy na online testy, které jste vytvořili, pracovní listy a další. Můžete použít materiály vytvořené v době vašeho studia – například z praxí, seminářů, didaktických cvičení nebo projektů. Pokud půjde o materiály z praxe, je vhodné je doplnit o kontext, tedy kdy a jak byly použity, jaký byl jejich účel, ale pro rozbory, zpětná vazba, sebereflexe etc. slouží následující větev repositáře. Je však možné na soubory odkazovat v rámci dalších souborů.
