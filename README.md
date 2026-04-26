@@ -1,5 +1,1 @@
-Pedagogické portfolio <br>
-Bakalářské studium <br>
-Bc. Eva Ječmínková (D25932) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
+Pedagogická praxe nebude zahrnovat materiály, které se nutně týkají informatiky. Sem budete vkládat zkušenosti z pedagogických praxí, které jste absolvovali pod vedením pedagogického ústavu. Požadované jsou všechny praxe z doby Vašeho studia (náslechová, praktická, dlouhodobá atd.), případně Vaše další zkušenosti s výukou (pracovní zkušenosti, volnočasové aktivity atd.). Kromě vlastní reflexe praxe sem můžete zahrnout i didaktické analýzy jako rozbory použitých výukových metod, zpětnou vazbu, sebereflexi, metodiky a metodické komentáře k praktické výuce a další.
