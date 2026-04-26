@@ -1,5 +1,1 @@
-Pedagogické portfolio <br>
-Bakalářské studium <br>
-Bc. Eva Ječmínková (D25932) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
+Odborná část portfolia bude obsahovat materiály, které se týkají vaší odborné profilace v oblasti informatiky a informačních a komunikačních technologií. Např. dokumentaci k technické praxi, realizovaný projekt v Rapsbery Pi, Arduinu, etc., vlastní program včetně kódu, webové stránky s dokumentací atd. V této části by měl být minimálně jeden autorský kód v jazyce podle vaší volby. Zároveň není problém sem vložit části vaší absolventské práce, pokud je relevantní.
